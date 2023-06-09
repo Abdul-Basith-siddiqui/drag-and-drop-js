@@ -6,4 +6,5 @@ The implemented drag and drop functionality allows users to drag items from one 
 ![d2](https://github.com/Abdul-Basith-siddiqui/drag-and-drop-js/assets/60346694/c7b8e1b0-8d86-487d-baa5-4ec0505dfd91)
 ![d3](https://github.com/Abdul-Basith-siddiqui/drag-and-drop-js/assets/60346694/76c0490d-b2b6-4037-8de8-7557ffbc752b)
 ![d4](https://github.com/Abdul-Basith-siddiqui/drag-and-drop-js/assets/60346694/f333d1d7-6e81-457a-bfc9-c025dcb1c91b)
+![d1](https://github.com/Abdul-Basith-siddiqui/drag-and-drop-js/assets/60346694/28458ba7-153a-4b7a-ab77-41fc1f9ca184)
 
