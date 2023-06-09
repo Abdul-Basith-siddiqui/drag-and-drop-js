@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Drag and Drop Example</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h2>Draggable Items</h2>
+      <div id="drag-container">
+        <div class="draggable-item" draggable="true">
+          <img src="item1.jpg" alt="Item 1" />
+        </div>
+        <div class="draggable-item" draggable="true">
+          <img src="item2.jpg" alt="Item 2" />
+        </div>
+        <div class="draggable-item" draggable="true">
+          <img src="item3.jpg" alt="Item 3" />
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <h2>Droppable Area</h2>
+      <div id="drop-container"></div>
+      <div class="reset-container">
+        <button id="reset-button">Reset</button>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
